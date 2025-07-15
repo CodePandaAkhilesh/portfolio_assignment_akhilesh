@@ -1,4 +1,4 @@
-# Akhilesh's Portfolio
+# Akhilesh's Portfolio ( Using CURSOR AI )
 
 This is my personal portfolio website built using **React.js** and **Tailwind CSS**, developed with the help of **Cursor** 
 as part of an assignment during my internship as a **Software Engineering Intern** at **YugaYatra Retail (OPC) Private Limited**.
