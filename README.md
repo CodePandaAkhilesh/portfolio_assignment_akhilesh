@@ -22,8 +22,8 @@ to demonstrate my front-end development abilities using modern technologies duri
 Clone the repository and run it locally:
 
 ```bash
-git clone https://github.com/your-username/portfolioakhilesh.git
-cd portfolioakhilesh
+git clone https://github.com/CodePandaAkhilesh/portfolio_assignment_akhilesh
+cd portfolio_assignment_akhilesh
 npm install
 npm run dev
 
