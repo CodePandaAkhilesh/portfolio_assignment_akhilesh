@@ -2,8 +2,8 @@ import React from 'react';
 
 const skills = {
   Languages: ['C++', 'C', 'Python', 'JavaScript', 'HTML', 'CSS'],
-  Frameworks: ['React.js', 'Node.js', 'Express.js', 'MongoDB'],
-  Tools: ['Postman', 'VS Code', 'IntelliJ', 'Git', 'GitHub'],
+  Frameworks: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'REST API', 'Tailwind CSS'],
+  Tools: ['Postman', 'VS Code', 'IntelliJ', 'Git', 'GitHub', 'MongoDB Compass'],
 };
 
 const Skills = () => (
